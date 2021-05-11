@@ -1,0 +1,14 @@
+.contact-jumbotron {
+    background-image: url("../../assets/img/background/background.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #outline-dark {
+    border-color: #0c0c0c;
+    color: #ffffff;
+  }
+  #outline-dark:hover {
+    background-color: #1f1e1e;
+    color: #ffffff;
+  }
+ 
